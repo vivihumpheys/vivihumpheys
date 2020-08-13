@@ -1,10 +1,13 @@
- Olá, me chamo Viviane e estou iniciando minha carreira no mundo da tecnologia. :computer:
+ Olá, 
+ Estou iniciando minha carreira no mundo da tecnologia. :computer:
  
- Sou formada em programação front-end pelo bootcamp da {reprograma} e estou em busca de uma oportunidade. :smiley:
+ Sou formada em <strong>programação front-end</strong> pelo bootcamp da {reprograma} e estou em busca de uma oportunidade. :smiley:
+ Tenho conhecimento em <strong>JavaScript, CSS, HTML, React e Bootstrap</strong>.
  
- Tenho conhecimento em JavaScript, CSS, HTML, React e Bootstrap.
+ Quero ajudar a trazer mais mulheres para o mundo de tecnologia :woman:
+ Apaixonada por artes, viagens e inovação.
  
- Seja bem-vindx!
+ Sejam bem-vindxs!
  
  
  
