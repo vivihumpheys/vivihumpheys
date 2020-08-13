@@ -11,5 +11,8 @@
  
  Sejam bem-vindxs!
  
+  <a href="https://www.linkedin.com/vivianehfm" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
  
  
