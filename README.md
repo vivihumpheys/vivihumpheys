@@ -1,19 +1,13 @@
-<h3 >Oi, eu sou a Viviane!</h3>
- 
-<p> Estou iniciando minha carreira no mundo da tecnologia. :computer:</p>
-
-<p >Sou formada em <strong>programação front-end</strong> pelo bootcamp da {reprograma} e estou em busca de uma oportunidade. :smiley:
-Tenho conhecimento em <strong>JavaScript, CSS, HTML, React e Bootstrap</strong>.
-</p>
+<h2> Software engineer, focused on front-end development </h2>
  
 
-<p>Quero ajudar a trazer mais mulheres para o mundo de tecnologia :woman:</p>
+<p> My goal is to contribute to the tech industry by making it a more friendly space to women in general :woman:</p>
  
  
- <p>Apaixonada por arte, viagem e inovação.</p>
+ <p>I believe technology can improve people`s life in many different aspects and that`s what I stand for</p>
  
  
- <p>Sejam bem-vindxs!</p>
+ <p>Welcome yall</p>
 
   
  <a href="https://www.linkedin.com/in/vivianehfm/" rel="nofollow noreferrer">
